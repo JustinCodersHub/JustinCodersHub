@@ -2,8 +2,8 @@
 - 👀 I’m interested to you, ahmm i mean in programming
 - 🌱 I’m currently learning front-end language
 - 💞️ I’m looking to collaborate on any developer
-- 📫 How to reach me? Follow me on facebook : https://www.facebook.com/justinpadilla88.
-     and chat me, "Have you eaten?". JOKEEE!!
+- 📫 How to reach me? Follow me on facebook : https://www.facebook.com/justinpadilla88 and
+     and message me, "Have you eaten?". charr!!
 
 <!---
 JustinCodersHub/JustinCodersHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
